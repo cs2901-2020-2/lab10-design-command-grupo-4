@@ -14,6 +14,8 @@
         <sonar.projectKey>>cs2901-2020-2_lab10-design-command-grupo-4</sonar.projectKey>
         <sonar.organization>cs2901-2020-2</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.login>0b2f173c4570f629bcf0dfff59a874c7447c2239</sonar.login>
+
     </properties>
 
     <dependencies>
