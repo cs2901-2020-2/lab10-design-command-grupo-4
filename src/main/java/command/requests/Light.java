@@ -1,7 +1,7 @@
 package command.requests;
 
 public abstract class Light implements Request{
-    public void on() {}
-    public void off() {}
+    abstract public void on();
+    abstract public void off();
 
 }
