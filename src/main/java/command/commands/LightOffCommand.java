@@ -1,7 +1,6 @@
 package command.commands;
 
 import command.requests.Light;
-import command.requests.Request;
 
 public class LightOffCommand implements Command {
 

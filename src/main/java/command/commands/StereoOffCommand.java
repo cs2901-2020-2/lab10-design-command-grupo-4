@@ -1,6 +1,5 @@
 package command.commands;
 
-import command.requests.Light;
 import command.requests.Stereo;
 
 public class StereoOffCommand implements Command {

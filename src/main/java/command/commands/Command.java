@@ -1,6 +1,5 @@
 package command.commands;
 
-import command.requests.GarageDoor;
 import command.requests.Request;
 
 public interface Command {

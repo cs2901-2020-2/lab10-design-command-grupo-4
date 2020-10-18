@@ -1,7 +1,6 @@
 package command.commands;
 
 import command.requests.CeilingFan;
-import command.requests.GarageDoor;
 import command.requests.Request;
 
 public class CeilingFanHighCommand implements Command {
