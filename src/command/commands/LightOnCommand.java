@@ -1,6 +1,9 @@
-package command;
+package command.commands;
+
+import command.requests.Light;
 
 public class LightOnCommand implements Command {
+
     Light light;
 
     public LightOnCommand(Light light) {
@@ -11,4 +14,5 @@ public class LightOnCommand implements Command {
     public void execute() {
         light.on();
     }
+
 }
